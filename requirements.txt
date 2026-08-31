@@ -2,8 +2,3 @@ streamlit
 pandas
 numpy
 plotly
-#1st paste (run the app)
-echo 'alias runapp="/usr/local/bin/python3 -m streamlit run add.py"' >> ~/.zshrc
-source ~/.zshrc
-#2nd 
-runapp
