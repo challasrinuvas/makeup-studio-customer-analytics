@@ -1,0 +1,401 @@
+booking_id,customer_name,service,ceremony_type,price,booking_date,rating,city
+1,Customer_1,Pre-Wedding Shoot,Christian Wedding,9000,2024-01-26,4.8,Secunderabad
+2,Customer_2,Party & Event,Fusion/Other,5000,2024-04-14,4.7,Hyderabad
+3,Customer_3,Engagement Glam,Telugu Hindu Wedding,8000,2024-02-02,4.9,Hyderabad
+4,Customer_4,Party & Event,Fusion/Other,5000,2025-06-01,5.0,Hyderabad
+5,Customer_5,Engagement Glam,North Indian Wedding,7000,2025-07-12,4.6,Secunderabad
+6,Customer_6,Mehndi/Sangeet Look,Telugu Hindu Wedding,5500,2024-10-11,,Secunderabad
+7,Customer_7,Pre-Wedding Shoot,Christian Wedding,10000,2024-12-14,,Secunderabad
+8,Customer_8,Party & Event,Telugu Hindu Wedding,5500,2024-04-14,,Vijayawada
+9,Customer_9,Bridal Makeup,Fusion/Other,15500,2024-12-18,,Warangal
+10,Customer_10,Bridal Makeup,Telugu Hindu Wedding,16000,2025-07-03,4.9,Vijayawada
+11,Customer_11,Bridal Makeup,Fusion/Other,-100,2024-10-27,4.6,Warangal
+12,Customer_12,Engagement Glam,Telugu Hindu Wedding,7000,2024-03-12,4.6,Secunderabad
+13,Customer_13,HD & Airbrush,Telugu Hindu Wedding,8000,2024-08-26,4.8,Vijayawada
+14,Customer_14,HD & Airbrush,Muslim Wedding,9000,2025-01-08,4.1,Warangal
+15,Customer_15,HD & Airbrush,Telugu Hindu Wedding,8000,2024-09-30,4.2,Secunderabad
+16,Customer_16,Engagement Glam,North Indian Wedding,7000,2024-06-16,4.5,Vijayawada
+17,Customer_17,HD & Airbrush,Christian Wedding,7500,2024-08-12,4.4,Hyderabad
+18,Customer_18,Party & Event,North Indian Wedding,5000,2024-11-19,4.8,Warangal
+19,Customer_19,Bridal Makeup,Christian Wedding,15000,2025-08-03,4.4,Secunderabad
+20,Customer_20,Pre-Wedding Shoot,North Indian Wedding,10000,2025-02-09,4.3,Secunderabad
+21,Customer_21,HD & Airbrush,Fusion/Other,8000,2024-09-09,5.0,Warangal
+22,Customer_22,Pre-Wedding Shoot,Fusion/Other,8500,2025-03-14,4.6,Vijayawada
+23,Customer_23,HD & Airbrush,Fusion/Other,8000,2024-05-21,4.7,Vijayawada
+24,Customer_24,Bridal Makeup,Muslim Wedding,15000,2024-04-22,4.3,Secunderabad
+25,Customer_25,Pre-Wedding Shoot,North Indian Wedding,10000,2024-03-06,4.5,Vijayawada
+26,Customer_26,Engagement Glam,Christian Wedding,8000,2025-06-25,4.7,Hyderabad
+27,Customer_27,Pre-Wedding Shoot,Christian Wedding,9000,2025-07-03,4.4,Warangal
+28,Customer_28,Bridal Makeup,Muslim Wedding,15500,2025-03-21,4.8,Vijayawada
+29,Customer_29,Bridal Makeup,Muslim Wedding,15500,2025-05-27,4.5,Hyderabad
+30,Customer_30,Pre-Wedding Shoot,Fusion/Other,9500,2025-06-03,4.6,Secunderabad
+31,Customer_31,Party & Event,Fusion/Other,5500,2024-06-14,4.5,Hyderabad
+32,Customer_32,Engagement Glam,Telugu Hindu Wedding,7500,2025-05-15,5.0,Hyderabad
+33,Customer_33,HD & Airbrush,Telugu Hindu Wedding,8500,2024-09-02,4.7,Secunderabad
+34,Customer_34,Engagement Glam,North Indian Wedding,7000,2024-03-28,4.4,Hyderabad
+35,Customer_35,Engagement Glam,North Indian Wedding,7000,2024-05-11,4.9,Secunderabad
+36,Customer_36,HD & Airbrush,Muslim Wedding,7500,2025-03-09,4.3,Secunderabad
+37,Customer_37,Pre-Wedding Shoot,Christian Wedding,9500,2025-02-12,4.8,Vijayawada
+38,Customer_38,Engagement Glam,Muslim Wedding,8000,2024-05-03,4.1,Secunderabad
+39,Customer_39,Bridal Makeup,Fusion/Other,15500,2024-01-22,4.3,Secunderabad
+40,Customer_40,Engagement Glam,Telugu Hindu Wedding,7000,2024-01-08,4.8,Hyderabad
+41,Customer_41,Party & Event,Christian Wedding,5000,2024-02-02,4.9,Hyderabad
+42,Customer_42,Engagement Glam,North Indian Wedding,7000,2024-10-12,4.8,Secunderabad
+43,Customer_43,Engagement Glam,Fusion/Other,7000,2025-08-07,4.7,Vijayawada
+44,Customer_44,Party & Event,Muslim Wedding,6000,2025-02-20,4.6,Hyderabad
+45,Customer_45,Bridal Makeup,North Indian Wedding,16000,2024-12-28,4.3,Vijayawada
+46,Customer_46,Mehndi/Sangeet Look,Telugu Hindu Wedding,6000,2024-04-10,4.5,Vijayawada
+47,Customer_47,Pre-Wedding Shoot,Muslim Wedding,9500,2024-04-21,4.6,Secunderabad
+48,Customer_48,Party & Event,Muslim Wedding,4500,2025-04-04,5.0,Vijayawada
+49,Customer_49,Party & Event,Muslim Wedding,5500,2025-04-18,4.8,Hyderabad
+50,Customer_50,Mehndi/Sangeet Look,Telugu Hindu Wedding,5500,2024-04-10,4.2,Hyderabad
+51,Customer_51,Bridal Makeup,North Indian Wedding,15000,2024-06-19,4.8,Vijayawada
+52,Customer_52,Mehndi/Sangeet Look,Telugu Hindu Wedding,6000,2025-02-14,4.6,Secunderabad
+53,Customer_53,Mehndi/Sangeet Look,Christian Wedding,6000,2025-02-03,4.5,Vijayawada
+54,Customer_54,HD & Airbrush,North Indian Wedding,9000,2025-07-23,4.9,Secunderabad
+55,Customer_55,Party & Event,Telugu Hindu Wedding,5500,2024-08-10,5.0,Hyderabad
+56,Customer_56,Pre-Wedding Shoot,Telugu Hindu Wedding,9500,2024-02-28,5.0,Vijayawada
+57,Customer_57,Engagement Glam,Telugu Hindu Wedding,6500,2024-06-10,4.4,Hyderabad
+58,Customer_58,Party & Event,Muslim Wedding,5000,2024-03-10,4.6,Vijayawada
+59,Customer_59,Bridal Makeup,Fusion/Other,14500,2024-09-09,4.8,Hyderabad
+60,Customer_60,Engagement Glam,Fusion/Other,7000,2025-03-05,5.0,Warangal
+61,Customer_61,HD & Airbrush,Muslim Wedding,8000,2024-11-17,4.6,Warangal
+62,Customer_62,Mehndi/Sangeet Look,North Indian Wedding,6000,2024-11-03,4.6,Warangal
+63,Customer_63,Bridal Makeup,Fusion/Other,15000,2025-04-14,4.4,Hyderabad
+64,Customer_64,Bridal Makeup,Fusion/Other,14500,2024-08-06,4.3,Warangal
+65,Customer_65,Party & Event,Muslim Wedding,5500,2024-03-11,4.9,Warangal
+66,Customer_66,HD & Airbrush,Fusion/Other,8000,2025-03-24,5.0,Warangal
+67,Customer_67,Engagement Glam,Fusion/Other,6500,2024-01-09,4.7,Warangal
+68,Customer_68,Pre-Wedding Shoot,Christian Wedding,9000,2024-05-17,5.0,Hyderabad
+69,Customer_69,Bridal Makeup,Christian Wedding,14500,2024-06-08,4.8,Warangal
+70,Customer_70,Engagement Glam,Muslim Wedding,7000,2024-12-17,4.5,Warangal
+71,Customer_71,Engagement Glam,Telugu Hindu Wedding,8000,2024-09-14,4.8,Hyderabad
+72,Customer_72,Pre-Wedding Shoot,Telugu Hindu Wedding,10000,2024-10-10,5.0,Hyderabad
+73,Customer_73,HD & Airbrush,Muslim Wedding,8000,2024-09-25,4.7,Vijayawada
+74,Customer_74,Engagement Glam,Telugu Hindu Wedding,8000,2025-07-28,5.0,Hyderabad
+75,Customer_75,Bridal Makeup,Telugu Hindu Wedding,15000,2025-07-12,3.9,Warangal
+76,Customer_76,Engagement Glam,North Indian Wedding,6500,2024-05-31,4.9,Secunderabad
+77,Customer_77,Bridal Makeup,Telugu Hindu Wedding,15500,2025-01-08,4.7,Warangal
+78,Customer_78,Party & Event,Christian Wedding,5000,2024-04-15,4.6,Vijayawada
+79,Customer_79,Engagement Glam,Muslim Wedding,7000,2024-08-30,4.7,Secunderabad
+80,Customer_80,Mehndi/Sangeet Look,Christian Wedding,6000,2024-07-02,4.1,Vijayawada
+81,Customer_81,Pre-Wedding Shoot,Muslim Wedding,9000,2024-09-30,4.6,Hyderabad
+82,Customer_82,Mehndi/Sangeet Look,Muslim Wedding,6000,2025-04-26,4.8,Secunderabad
+83,Customer_83,Mehndi/Sangeet Look,Muslim Wedding,6500,2024-11-08,5.0,Secunderabad
+84,Customer_84,Bridal Makeup,Christian Wedding,15000,2025-02-12,4.5,Warangal
+85,Customer_85,Bridal Makeup,Fusion/Other,15500,2024-12-25,4.5,Vijayawada
+86,Customer_86,Pre-Wedding Shoot,Telugu Hindu Wedding,8500,2024-12-05,4.5,Hyderabad
+87,Customer_87,HD & Airbrush,Christian Wedding,8000,2025-08-17,5.0,Hyderabad
+88,Customer_88,Bridal Makeup,Christian Wedding,14500,2025-03-20,4.8,Warangal
+89,Customer_89,Mehndi/Sangeet Look,Telugu Hindu Wedding,5500,2025-06-07,4.5,Vijayawada
+90,Customer_90,Engagement Glam,Telugu Hindu Wedding,7000,2024-09-17,4.9,Vijayawada
+91,Customer_91,Bridal Makeup,Muslim Wedding,14500,2025-07-05,4.7,Warangal
+92,Customer_92,Mehndi/Sangeet Look,Fusion/Other,6000,2024-12-04,5.0,Warangal
+93,Customer_93,Pre-Wedding Shoot,Fusion/Other,9000,2024-11-03,4.5,Warangal
+94,Customer_94,Pre-Wedding Shoot,North Indian Wedding,10000,2024-11-30,4.6,Warangal
+95,Customer_95,Engagement Glam,North Indian Wedding,7000,2024-07-15,4.6,Vijayawada
+96,Customer_96,Pre-Wedding Shoot,Christian Wedding,9000,2025-08-05,4.3,Vijayawada
+97,Customer_97,Engagement Glam,Christian Wedding,7000,2024-11-07,4.8,Secunderabad
+98,Customer_98,Mehndi/Sangeet Look,North Indian Wedding,5500,2024-11-25,4.8,Vijayawada
+99,Customer_99,Mehndi/Sangeet Look,North Indian Wedding,6000,2025-06-07,4.7,Secunderabad
+100,Customer_100,Pre-Wedding Shoot,Fusion/Other,9000,2024-10-17,4.6,Warangal
+101,Customer_101,Bridal Makeup,Muslim Wedding,15000,2024-11-13,4.3,Secunderabad
+102,Customer_102,Party & Event,Muslim Wedding,5000,2024-02-17,4.6,Vijayawada
+103,Customer_103,Engagement Glam,North Indian Wedding,7000,2025-04-11,4.6,Secunderabad
+104,Customer_104,Pre-Wedding Shoot,North Indian Wedding,10000,2025-05-21,4.5,Secunderabad
+105,Customer_105,Party & Event,North Indian Wedding,5000,2024-04-19,4.7,Secunderabad
+106,Customer_106,Party & Event,Telugu Hindu Wedding,4500,2025-04-20,4.8,Secunderabad
+107,Customer_107,Bridal Makeup,North Indian Wedding,16000,2024-05-16,5.0,Warangal
+108,Customer_108,Mehndi/Sangeet Look,North Indian Wedding,5500,2025-05-31,4.8,Vijayawada
+109,Customer_109,Party & Event,Christian Wedding,6000,2025-04-05,4.8,Secunderabad
+110,Customer_110,Pre-Wedding Shoot,North Indian Wedding,9500,2025-06-17,4.7,Secunderabad
+111,Customer_111,HD & Airbrush,Christian Wedding,9000,2024-03-20,4.1,Secunderabad
+112,Customer_112,HD & Airbrush,Fusion/Other,8500,2024-11-23,4.7,Hyderabad
+113,Customer_113,Party & Event,North Indian Wedding,5000,2024-08-24,4.7,Secunderabad
+114,Customer_114,Pre-Wedding Shoot,North Indian Wedding,9000,2024-03-06,5.0,Vijayawada
+115,Customer_115,HD & Airbrush,North Indian Wedding,7500,2025-04-22,4.6,Hyderabad
+116,Customer_116,Party & Event,Fusion/Other,6000,2025-02-02,4.8,Hyderabad
+117,Customer_117,Engagement Glam,Telugu Hindu Wedding,8000,2025-05-03,4.7,Warangal
+118,Customer_118,HD & Airbrush,Fusion/Other,9000,2025-03-05,4.3,Secunderabad
+119,Customer_119,Mehndi/Sangeet Look,North Indian Wedding,6000,2024-10-06,5.0,Vijayawada
+120,Customer_120,Bridal Makeup,North Indian Wedding,16000,2024-12-10,4.9,Secunderabad
+121,Customer_121,Mehndi/Sangeet Look,Telugu Hindu Wedding,6000,2025-06-30,4.9,Vijayawada
+122,Customer_122,Engagement Glam,Telugu Hindu Wedding,6500,2024-01-28,4.4,Vijayawada
+123,Customer_123,Party & Event,Telugu Hindu Wedding,6000,2024-07-05,5.0,Warangal
+124,Customer_124,Mehndi/Sangeet Look,North Indian Wedding,6500,2024-08-04,4.3,Warangal
+125,Customer_125,HD & Airbrush,North Indian Wedding,9000,2024-10-11,4.9,Warangal
+126,Customer_126,Bridal Makeup,Fusion/Other,16000,2024-01-20,5.0,Hyderabad
+127,Customer_127,HD & Airbrush,Telugu Hindu Wedding,8000,2024-03-11,4.4,Hyderabad
+128,Customer_128,Party & Event,Fusion/Other,5000,2024-01-21,4.5,Secunderabad
+129,Customer_129,Party & Event,Telugu Hindu Wedding,5000,2025-04-29,4.7,Secunderabad
+130,Customer_130,Mehndi/Sangeet Look,Muslim Wedding,6500,2025-01-12,4.5,Hyderabad
+131,Customer_131,Party & Event,Fusion/Other,5500,2024-04-20,4.2,Hyderabad
+132,Customer_132,HD & Airbrush,North Indian Wedding,7500,2025-01-19,4.7,Secunderabad
+133,Customer_133,Bridal Makeup,Telugu Hindu Wedding,14500,2024-09-05,4.4,Warangal
+134,Customer_134,Pre-Wedding Shoot,Fusion/Other,8500,2024-05-03,4.8,Hyderabad
+135,Customer_135,HD & Airbrush,Christian Wedding,7500,2025-03-14,4.4,Hyderabad
+136,Customer_136,Engagement Glam,North Indian Wedding,7500,2024-01-13,5.0,Vijayawada
+137,Customer_137,Bridal Makeup,North Indian Wedding,16000,2025-01-05,4.5,Secunderabad
+138,Customer_138,Mehndi/Sangeet Look,Christian Wedding,6000,2025-06-18,4.6,Vijayawada
+139,Customer_139,Mehndi/Sangeet Look,Christian Wedding,7000,2024-10-01,4.9,Secunderabad
+140,Customer_140,Bridal Makeup,Muslim Wedding,15500,2025-04-06,4.3,Vijayawada
+141,Customer_141,Engagement Glam,Christian Wedding,6500,2025-01-23,4.8,Hyderabad
+142,Customer_142,Mehndi/Sangeet Look,North Indian Wedding,6500,2024-07-05,5.0,Secunderabad
+143,Customer_143,HD & Airbrush,Christian Wedding,8500,2024-12-14,4.2,Warangal
+144,Customer_144,Engagement Glam,Muslim Wedding,7000,2025-06-13,4.8,Hyderabad
+145,Customer_145,Party & Event,Fusion/Other,6000,2025-05-15,4.8,Secunderabad
+146,Customer_146,Pre-Wedding Shoot,North Indian Wedding,10000,2025-05-17,4.9,Hyderabad
+147,Customer_147,Bridal Makeup,North Indian Wedding,15500,2024-08-14,4.3,Secunderabad
+148,Customer_148,HD & Airbrush,North Indian Wedding,7500,2025-01-12,4.3,Warangal
+149,Customer_149,Mehndi/Sangeet Look,Christian Wedding,5500,2024-12-04,4.9,Vijayawada
+150,Customer_150,HD & Airbrush,Muslim Wedding,8500,2024-09-14,4.8,Hyderabad
+151,Customer_151,Pre-Wedding Shoot,Telugu Hindu Wedding,9000,2024-11-19,4.8,Secunderabad
+152,Customer_152,Party & Event,Christian Wedding,5000,2025-05-10,4.8,Warangal
+153,Customer_153,Bridal Makeup,Muslim Wedding,15000,2024-10-30,4.5,Warangal
+154,Customer_154,Party & Event,Fusion/Other,5500,2024-01-15,4.8,Secunderabad
+155,Customer_155,HD & Airbrush,Fusion/Other,8000,2024-02-25,4.8,Warangal
+156,Customer_156,Pre-Wedding Shoot,Telugu Hindu Wedding,9000,2025-05-17,4.5,Hyderabad
+157,Customer_157,Engagement Glam,North Indian Wedding,7500,2025-04-25,5.0,Vijayawada
+158,Customer_158,HD & Airbrush,Christian Wedding,8000,2024-02-22,4.8,Vijayawada
+159,Customer_159,Bridal Makeup,North Indian Wedding,15000,2025-02-14,4.3,Hyderabad
+160,Customer_160,Engagement Glam,Muslim Wedding,7000,2024-06-04,4.9,Warangal
+161,Customer_161,Bridal Makeup,Fusion/Other,15000,2024-05-01,4.4,Vijayawada
+162,Customer_162,Engagement Glam,Fusion/Other,6500,2024-08-19,4.9,Vijayawada
+163,Customer_163,Mehndi/Sangeet Look,Fusion/Other,7000,2024-10-31,5.0,Vijayawada
+164,Customer_164,HD & Airbrush,Fusion/Other,7500,2024-03-02,4.5,Hyderabad
+165,Customer_165,Party & Event,Telugu Hindu Wedding,5000,2024-09-27,5.0,Secunderabad
+166,Customer_166,Party & Event,Telugu Hindu Wedding,5000,2025-07-19,4.8,Secunderabad
+167,Customer_167,Bridal Makeup,Fusion/Other,16000,2025-04-06,4.9,Vijayawada
+168,Customer_168,HD & Airbrush,Christian Wedding,8000,2024-08-25,5.0,Warangal
+169,Customer_169,Pre-Wedding Shoot,Muslim Wedding,10000,2024-03-13,4.6,Warangal
+170,Customer_170,Pre-Wedding Shoot,North Indian Wedding,8500,2024-07-21,4.5,Hyderabad
+171,Customer_171,Engagement Glam,Christian Wedding,7000,2024-06-01,4.4,Secunderabad
+172,Customer_172,Bridal Makeup,Christian Wedding,15000,2024-06-18,4.5,Warangal
+173,Customer_173,Mehndi/Sangeet Look,Christian Wedding,6000,2025-04-24,4.7,Vijayawada
+174,Customer_174,HD & Airbrush,North Indian Wedding,7500,2025-07-06,4.8,Vijayawada
+175,Customer_175,Bridal Makeup,North Indian Wedding,14500,2024-02-10,4.8,Warangal
+176,Customer_176,Engagement Glam,Telugu Hindu Wedding,7500,2024-01-27,4.9,Secunderabad
+177,Customer_177,Pre-Wedding Shoot,Christian Wedding,8500,2024-01-22,4.7,Hyderabad
+178,Customer_178,Party & Event,North Indian Wedding,6000,2025-06-15,5.0,Warangal
+179,Customer_179,Party & Event,North Indian Wedding,4500,2025-03-22,4.6,Hyderabad
+180,Customer_180,Mehndi/Sangeet Look,Christian Wedding,6500,2025-02-22,5.0,Warangal
+181,Customer_181,Pre-Wedding Shoot,Christian Wedding,9000,2024-06-13,4.9,Vijayawada
+182,Customer_182,Pre-Wedding Shoot,North Indian Wedding,10000,2024-10-22,4.4,Hyderabad
+183,Customer_183,Mehndi/Sangeet Look,Christian Wedding,6000,2024-11-18,4.4,Warangal
+184,Customer_184,Bridal Makeup,Telugu Hindu Wedding,16000,2025-06-10,4.8,Vijayawada
+185,Customer_185,Mehndi/Sangeet Look,Fusion/Other,6000,2024-07-11,4.6,Warangal
+186,Customer_186,Engagement Glam,Telugu Hindu Wedding,8000,2025-03-28,4.9,Secunderabad
+187,Customer_187,HD & Airbrush,Christian Wedding,7500,2024-05-14,4.8,Vijayawada
+188,Customer_188,Pre-Wedding Shoot,Telugu Hindu Wedding,10000,2024-05-04,4.7,Secunderabad
+189,Customer_189,Pre-Wedding Shoot,Fusion/Other,9000,2024-11-14,4.4,Hyderabad
+190,Customer_190,Engagement Glam,Muslim Wedding,8000,2024-04-05,4.2,Hyderabad
+191,Customer_191,Mehndi/Sangeet Look,North Indian Wedding,6000,2024-06-06,4.6,Warangal
+192,Customer_192,Engagement Glam,North Indian Wedding,7500,2025-03-01,5.0,Vijayawada
+193,Customer_193,Party & Event,Muslim Wedding,6000,2025-07-18,4.8,Vijayawada
+194,Customer_194,Party & Event,Muslim Wedding,4500,2025-06-04,4.3,Hyderabad
+195,Customer_195,HD & Airbrush,Fusion/Other,9000,2024-12-14,4.8,Warangal
+196,Customer_196,Bridal Makeup,Fusion/Other,15500,2024-11-01,4.8,Vijayawada
+197,Customer_197,Party & Event,North Indian Wedding,6000,2025-07-05,4.4,Warangal
+198,Customer_198,HD & Airbrush,North Indian Wedding,7500,2025-07-10,4.7,Vijayawada
+199,Customer_199,HD & Airbrush,Fusion/Other,8000,2024-09-01,4.7,Vijayawada
+200,Customer_200,Party & Event,Christian Wedding,6000,2024-02-14,4.4,Vijayawada
+201,Customer_201,Pre-Wedding Shoot,Muslim Wedding,10000,2025-01-30,4.8,Vijayawada
+202,Customer_202,Bridal Makeup,Fusion/Other,15000,2025-05-29,4.9,Warangal
+203,Customer_203,Bridal Makeup,Fusion/Other,16000,2024-04-12,5.0,Vijayawada
+204,Customer_204,Bridal Makeup,Muslim Wedding,15000,2025-02-23,5.0,Hyderabad
+205,Customer_205,Mehndi/Sangeet Look,Fusion/Other,6500,2024-12-12,4.3,Vijayawada
+206,Customer_206,Pre-Wedding Shoot,Fusion/Other,9000,2024-12-02,4.4,Vijayawada
+207,Customer_207,HD & Airbrush,Telugu Hindu Wedding,9000,2025-07-08,4.9,Hyderabad
+208,Customer_208,Party & Event,Telugu Hindu Wedding,5500,2024-08-20,4.9,Vijayawada
+209,Customer_209,Bridal Makeup,Muslim Wedding,15000,2025-03-30,4.9,Warangal
+210,Customer_210,Bridal Makeup,Telugu Hindu Wedding,15000,2024-11-28,5.0,Warangal
+211,Customer_211,HD & Airbrush,Muslim Wedding,8500,2025-03-17,4.9,Secunderabad
+212,Customer_212,Engagement Glam,Muslim Wedding,8000,2025-08-02,5.0,Secunderabad
+213,Customer_213,Party & Event,Fusion/Other,5000,2025-01-26,5.0,Secunderabad
+214,Customer_214,Mehndi/Sangeet Look,Muslim Wedding,5500,2024-05-26,4.9,Vijayawada
+215,Customer_215,Pre-Wedding Shoot,Christian Wedding,9500,2025-04-15,4.6,Hyderabad
+216,Customer_216,Mehndi/Sangeet Look,Muslim Wedding,6500,2025-07-13,4.9,Hyderabad
+217,Customer_217,Mehndi/Sangeet Look,North Indian Wedding,6500,2024-11-02,4.5,Warangal
+218,Customer_218,Mehndi/Sangeet Look,North Indian Wedding,6500,2024-07-22,4.6,Vijayawada
+219,Customer_219,Bridal Makeup,Fusion/Other,15000,2025-01-25,4.6,Warangal
+220,Customer_220,Engagement Glam,Telugu Hindu Wedding,7500,2024-10-29,4.7,Vijayawada
+221,Customer_221,HD & Airbrush,Telugu Hindu Wedding,8000,2025-08-02,5.0,Vijayawada
+222,Customer_222,HD & Airbrush,Muslim Wedding,8000,2024-12-26,4.1,Secunderabad
+223,Customer_223,Engagement Glam,Telugu Hindu Wedding,7500,2024-05-20,4.9,Hyderabad
+224,Customer_224,HD & Airbrush,Fusion/Other,9000,2024-02-04,4.2,Warangal
+225,Customer_225,Pre-Wedding Shoot,Christian Wedding,9000,2024-04-02,4.6,Warangal
+226,Customer_226,Pre-Wedding Shoot,Muslim Wedding,10000,2024-06-28,5.0,Secunderabad
+227,Customer_227,Engagement Glam,Fusion/Other,7500,2025-06-27,4.7,Warangal
+228,Customer_228,Party & Event,Christian Wedding,5500,2025-05-08,4.4,Warangal
+229,Customer_229,Bridal Makeup,Muslim Wedding,16000,2024-03-18,4.5,Secunderabad
+230,Customer_230,Pre-Wedding Shoot,Christian Wedding,10000,2025-07-24,4.9,Hyderabad
+231,Customer_231,Mehndi/Sangeet Look,Fusion/Other,6000,2024-09-27,4.5,Hyderabad
+232,Customer_232,Mehndi/Sangeet Look,Fusion/Other,6500,2024-09-25,4.8,Vijayawada
+233,Customer_233,Pre-Wedding Shoot,Muslim Wedding,9500,2024-04-20,4.7,Vijayawada
+234,Customer_234,Bridal Makeup,Christian Wedding,14500,2025-07-28,4.5,Secunderabad
+235,Customer_235,Pre-Wedding Shoot,Christian Wedding,9000,2025-04-20,5.0,Vijayawada
+236,Customer_236,Bridal Makeup,Telugu Hindu Wedding,15000,2024-02-16,4.9,Warangal
+237,Customer_237,Mehndi/Sangeet Look,Muslim Wedding,6000,2024-04-09,4.1,Secunderabad
+238,Customer_238,Mehndi/Sangeet Look,Fusion/Other,7000,2025-01-14,4.8,Vijayawada
+239,Customer_239,Engagement Glam,Telugu Hindu Wedding,7000,2025-02-28,4.5,Vijayawada
+240,Customer_240,Engagement Glam,Telugu Hindu Wedding,8000,2024-10-13,5.0,Warangal
+241,Customer_241,Party & Event,Muslim Wedding,6000,2025-03-31,4.5,Warangal
+242,Customer_242,Bridal Makeup,Christian Wedding,15500,2025-07-11,4.7,Hyderabad
+243,Customer_243,Mehndi/Sangeet Look,Telugu Hindu Wedding,6500,2024-07-13,4.9,Vijayawada
+244,Customer_244,Bridal Makeup,Telugu Hindu Wedding,15000,2024-01-22,5.0,Warangal
+245,Customer_245,Party & Event,Muslim Wedding,5000,2025-08-01,4.3,Hyderabad
+246,Customer_246,Engagement Glam,Muslim Wedding,7000,2025-08-23,4.6,Secunderabad
+247,Customer_247,HD & Airbrush,Christian Wedding,8000,2024-01-03,4.6,Secunderabad
+248,Customer_248,Party & Event,Muslim Wedding,4500,2024-09-13,4.5,Hyderabad
+249,Customer_249,Pre-Wedding Shoot,Telugu Hindu Wedding,9000,2024-05-14,5.0,Warangal
+250,Customer_250,Party & Event,Telugu Hindu Wedding,4500,2024-11-27,4.8,Secunderabad
+251,Customer_251,HD & Airbrush,North Indian Wedding,8000,2024-05-09,4.3,Hyderabad
+252,Customer_252,Pre-Wedding Shoot,North Indian Wedding,9000,2025-05-02,5.0,Warangal
+253,Customer_253,Engagement Glam,North Indian Wedding,6500,2024-04-21,5.0,Secunderabad
+254,Customer_254,Engagement Glam,Christian Wedding,7000,2025-06-17,5.0,Vijayawada
+255,Customer_255,Pre-Wedding Shoot,North Indian Wedding,9000,2024-03-03,4.2,Vijayawada
+256,Customer_256,Mehndi/Sangeet Look,North Indian Wedding,6000,2025-05-17,4.6,Hyderabad
+257,Customer_257,Bridal Makeup,Telugu Hindu Wedding,15500,2024-05-31,5.0,Secunderabad
+258,Customer_258,HD & Airbrush,Fusion/Other,7500,2025-08-22,4.5,Warangal
+259,Customer_259,Mehndi/Sangeet Look,Christian Wedding,5500,2025-06-27,4.8,Vijayawada
+260,Customer_260,Engagement Glam,Telugu Hindu Wedding,6500,2025-03-16,4.9,Hyderabad
+261,Customer_261,Pre-Wedding Shoot,North Indian Wedding,8500,2024-08-08,4.4,Vijayawada
+262,Customer_262,Party & Event,North Indian Wedding,6000,2024-12-13,4.7,Vijayawada
+263,Customer_263,Mehndi/Sangeet Look,North Indian Wedding,6000,2024-11-16,3.7,Warangal
+264,Customer_264,Pre-Wedding Shoot,Muslim Wedding,9500,2025-01-18,4.4,Vijayawada
+265,Customer_265,Bridal Makeup,Telugu Hindu Wedding,15000,2024-03-28,4.6,Vijayawada
+266,Customer_266,Bridal Makeup,Fusion/Other,15500,2024-05-13,4.3,Hyderabad
+267,Customer_267,Engagement Glam,Christian Wedding,6500,2025-07-29,5.0,Hyderabad
+268,Customer_268,Mehndi/Sangeet Look,Telugu Hindu Wedding,6500,2025-03-09,4.3,Warangal
+269,Customer_269,Engagement Glam,Telugu Hindu Wedding,7500,2024-12-26,4.6,Secunderabad
+270,Customer_270,Party & Event,Telugu Hindu Wedding,6000,2024-08-17,4.7,Warangal
+271,Customer_271,Engagement Glam,Christian Wedding,7500,2024-04-27,5.0,Secunderabad
+272,Customer_272,Mehndi/Sangeet Look,Telugu Hindu Wedding,5500,2025-07-24,4.3,Warangal
+273,Customer_273,Bridal Makeup,Christian Wedding,15000,2024-10-06,5.0,Warangal
+274,Customer_274,HD & Airbrush,Muslim Wedding,8000,2024-07-04,4.7,Vijayawada
+275,Customer_275,Bridal Makeup,Telugu Hindu Wedding,15000,2024-02-01,4.4,Secunderabad
+276,Customer_276,Mehndi/Sangeet Look,Christian Wedding,7000,2025-04-09,4.8,Secunderabad
+277,Customer_277,HD & Airbrush,Fusion/Other,8500,2024-11-28,4.8,Hyderabad
+278,Customer_278,Bridal Makeup,Fusion/Other,15000,2024-06-10,4.5,Hyderabad
+279,Customer_279,Pre-Wedding Shoot,North Indian Wedding,9000,2024-10-05,4.7,Vijayawada
+280,Customer_280,Mehndi/Sangeet Look,North Indian Wedding,5500,2025-03-28,4.6,Warangal
+281,Customer_281,Party & Event,Christian Wedding,4500,2024-04-26,4.7,Vijayawada
+282,Customer_282,Bridal Makeup,Fusion/Other,15500,2025-05-13,4.9,Warangal
+283,Customer_283,Bridal Makeup,Fusion/Other,15000,2025-02-08,5.0,Hyderabad
+284,Customer_284,Bridal Makeup,Muslim Wedding,15000,2024-11-04,4.3,Secunderabad
+285,Customer_285,HD & Airbrush,Telugu Hindu Wedding,8500,2024-12-01,5.0,Hyderabad
+286,Customer_286,Mehndi/Sangeet Look,Muslim Wedding,7000,2024-06-28,4.1,Vijayawada
+287,Customer_287,Engagement Glam,Fusion/Other,7000,2025-05-27,4.7,Warangal
+288,Customer_288,Bridal Makeup,North Indian Wedding,16000,2024-02-13,4.9,Hyderabad
+289,Customer_289,Mehndi/Sangeet Look,Fusion/Other,6000,2024-11-16,4.8,Vijayawada
+290,Customer_290,Engagement Glam,Christian Wedding,8000,2025-03-03,4.5,Hyderabad
+291,Customer_291,Mehndi/Sangeet Look,Muslim Wedding,6000,2024-11-28,4.6,Vijayawada
+292,Customer_292,Pre-Wedding Shoot,North Indian Wedding,9500,2024-03-31,4.6,Hyderabad
+293,Customer_293,Party & Event,Fusion/Other,6000,2025-02-14,4.5,Hyderabad
+294,Customer_294,Mehndi/Sangeet Look,Muslim Wedding,6500,2024-12-13,5.0,Warangal
+295,Customer_295,Party & Event,Telugu Hindu Wedding,5000,2025-06-06,4.8,Secunderabad
+296,Customer_296,HD & Airbrush,Muslim Wedding,8500,2024-05-31,4.5,Hyderabad
+297,Customer_297,Party & Event,Muslim Wedding,5500,2024-07-21,5.0,Secunderabad
+298,Customer_298,Pre-Wedding Shoot,North Indian Wedding,9000,2024-06-30,4.8,Vijayawada
+299,Customer_299,Engagement Glam,Fusion/Other,6500,2025-04-04,4.9,Warangal
+300,Customer_300,Pre-Wedding Shoot,North Indian Wedding,9500,2024-06-03,4.9,Hyderabad
+301,Customer_301,Mehndi/Sangeet Look,Christian Wedding,7000,2024-11-06,4.5,Hyderabad
+302,Customer_302,HD & Airbrush,Christian Wedding,7500,2024-03-16,4.5,Vijayawada
+303,Customer_303,Mehndi/Sangeet Look,Christian Wedding,6000,2024-02-28,4.9,Warangal
+304,Customer_304,Bridal Makeup,North Indian Wedding,15000,2025-06-03,4.9,Vijayawada
+305,Customer_305,Engagement Glam,North Indian Wedding,6500,2024-02-12,4.7,Secunderabad
+306,Customer_306,HD & Airbrush,Fusion/Other,7500,2025-05-02,4.7,Secunderabad
+307,Customer_307,Bridal Makeup,Christian Wedding,16000,2024-04-15,5.0,Hyderabad
+308,Customer_308,Engagement Glam,Muslim Wedding,7000,2024-02-10,4.5,Vijayawada
+309,Customer_309,Mehndi/Sangeet Look,Fusion/Other,5500,2025-06-19,4.9,Secunderabad
+310,Customer_310,HD & Airbrush,North Indian Wedding,8500,2024-10-16,4.6,Vijayawada
+311,Customer_311,HD & Airbrush,Christian Wedding,7500,2024-02-23,4.6,Hyderabad
+312,Customer_312,HD & Airbrush,North Indian Wedding,8000,2025-07-25,5.0,Warangal
+313,Customer_313,HD & Airbrush,Christian Wedding,7500,2024-06-02,4.9,Hyderabad
+314,Customer_314,Engagement Glam,Christian Wedding,7000,2024-12-24,4.9,Vijayawada
+315,Customer_315,Party & Event,Christian Wedding,4500,2024-03-27,5.0,Vijayawada
+316,Customer_316,Pre-Wedding Shoot,Fusion/Other,9500,2024-05-10,4.7,Hyderabad
+317,Customer_317,Pre-Wedding Shoot,Christian Wedding,10000,2025-06-04,4.9,Hyderabad
+318,Customer_318,HD & Airbrush,Muslim Wedding,8500,2024-07-03,4.6,Warangal
+319,Customer_319,Mehndi/Sangeet Look,Muslim Wedding,6000,2024-08-19,4.8,Secunderabad
+320,Customer_320,Bridal Makeup,Fusion/Other,15500,2024-04-13,4.7,Hyderabad
+321,Customer_321,Pre-Wedding Shoot,Fusion/Other,9500,2024-05-14,4.7,Vijayawada
+322,Customer_322,Party & Event,Fusion/Other,5000,2024-07-04,4.9,Secunderabad
+323,Customer_323,Pre-Wedding Shoot,North Indian Wedding,10000,2024-02-14,4.5,Warangal
+324,Customer_324,Pre-Wedding Shoot,Fusion/Other,9000,2025-03-30,5.0,Warangal
+325,Customer_325,Pre-Wedding Shoot,Fusion/Other,10000,2024-08-27,4.4,Secunderabad
+326,Customer_326,HD & Airbrush,Christian Wedding,9000,2024-07-17,4.3,Vijayawada
+327,Customer_327,Mehndi/Sangeet Look,Fusion/Other,6500,2025-01-26,5.0,Vijayawada
+328,Customer_328,Party & Event,Christian Wedding,5000,2024-05-21,4.9,Hyderabad
+329,Customer_329,Pre-Wedding Shoot,Fusion/Other,10000,2025-01-15,4.9,Hyderabad
+330,Customer_330,Pre-Wedding Shoot,Christian Wedding,8500,2024-05-07,4.9,Hyderabad
+331,Customer_331,Party & Event,Fusion/Other,5500,2025-04-05,4.7,Secunderabad
+332,Customer_332,Mehndi/Sangeet Look,North Indian Wedding,6000,2024-08-15,4.4,Warangal
+333,Customer_333,Bridal Makeup,North Indian Wedding,16000,2024-02-24,4.7,Warangal
+334,Customer_334,Party & Event,Christian Wedding,6000,2024-03-24,4.5,Secunderabad
+335,Customer_335,Bridal Makeup,Christian Wedding,15500,2024-04-11,5.0,Secunderabad
+336,Customer_336,Party & Event,North Indian Wedding,5000,2024-10-20,4.7,Secunderabad
+337,Customer_337,Pre-Wedding Shoot,Fusion/Other,10000,2025-04-04,4.5,Hyderabad
+338,Customer_338,Bridal Makeup,Muslim Wedding,15000,2024-09-19,4.6,Secunderabad
+339,Customer_339,Engagement Glam,North Indian Wedding,6500,2025-06-24,4.8,Hyderabad
+340,Customer_340,HD & Airbrush,Telugu Hindu Wedding,8000,2024-11-04,4.5,Hyderabad
+341,Customer_341,Party & Event,Telugu Hindu Wedding,6000,2025-04-13,4.5,Hyderabad
+342,Customer_342,Mehndi/Sangeet Look,Telugu Hindu Wedding,5500,2025-07-02,4.8,Secunderabad
+343,Customer_343,Pre-Wedding Shoot,North Indian Wedding,9000,2024-10-25,4.8,Hyderabad
+344,Customer_344,Engagement Glam,Fusion/Other,7500,2024-09-03,4.5,Vijayawada
+345,Customer_345,Party & Event,Christian Wedding,5000,2025-06-20,4.6,Hyderabad
+346,Customer_346,Engagement Glam,Fusion/Other,6500,2025-06-03,4.8,Hyderabad
+347,Customer_347,Mehndi/Sangeet Look,North Indian Wedding,7000,2024-02-14,4.3,Warangal
+348,Customer_348,HD & Airbrush,Telugu Hindu Wedding,8000,2024-12-31,4.3,Warangal
+349,Customer_349,Party & Event,Christian Wedding,5000,2025-08-18,4.5,Secunderabad
+350,Customer_350,Bridal Makeup,Christian Wedding,15500,2025-07-13,4.6,Secunderabad
+351,Customer_351,Pre-Wedding Shoot,Muslim Wedding,10000,2025-05-05,4.8,Secunderabad
+352,Customer_352,Bridal Makeup,Christian Wedding,16000,2024-02-07,5.0,Secunderabad
+353,Customer_353,Bridal Makeup,Christian Wedding,15000,2024-02-12,5.0,Warangal
+354,Customer_354,Engagement Glam,North Indian Wedding,8000,2025-07-10,4.7,Warangal
+355,Customer_355,Bridal Makeup,Christian Wedding,15000,2024-10-19,4.7,Hyderabad
+356,Customer_356,Pre-Wedding Shoot,Telugu Hindu Wedding,9500,2024-10-06,4.4,Warangal
+357,Customer_357,Mehndi/Sangeet Look,North Indian Wedding,7000,2025-03-26,4.7,Warangal
+358,Customer_358,Party & Event,Christian Wedding,6000,2025-05-24,4.6,Warangal
+359,Customer_359,Bridal Makeup,North Indian Wedding,16000,2024-03-21,4.8,Secunderabad
+360,Customer_360,Engagement Glam,Telugu Hindu Wedding,7500,2024-11-24,4.5,Hyderabad
+361,Customer_361,HD & Airbrush,North Indian Wedding,8500,2024-11-09,4.9,Vijayawada
+362,Customer_362,Party & Event,North Indian Wedding,6000,2024-12-25,5.0,Hyderabad
+363,Customer_363,Pre-Wedding Shoot,Christian Wedding,9500,2025-03-21,4.7,Hyderabad
+364,Customer_364,Bridal Makeup,Fusion/Other,16000,2025-01-07,4.8,Secunderabad
+365,Customer_365,Bridal Makeup,Telugu Hindu Wedding,15000,2025-03-24,4.9,Secunderabad
+366,Customer_366,Bridal Makeup,Christian Wedding,15000,2025-01-10,4.6,Vijayawada
+367,Customer_367,Engagement Glam,North Indian Wedding,7000,2024-06-06,4.8,Warangal
+368,Customer_368,HD & Airbrush,Fusion/Other,9000,2024-03-19,4.7,Secunderabad
+369,Customer_369,Engagement Glam,Christian Wedding,7500,2025-02-11,4.7,Warangal
+370,Customer_370,Party & Event,Muslim Wedding,5000,2024-01-27,4.5,Vijayawada
+371,Customer_371,Engagement Glam,Telugu Hindu Wedding,8000,2025-07-29,4.7,Warangal
+372,Customer_372,HD & Airbrush,Fusion/Other,9000,2024-08-07,4.8,Warangal
+373,Customer_373,Pre-Wedding Shoot,Telugu Hindu Wedding,10000,2024-07-23,5.0,Secunderabad
+374,Customer_374,Bridal Makeup,North Indian Wedding,16000,2024-06-25,5.0,Hyderabad
+375,Customer_375,Pre-Wedding Shoot,Telugu Hindu Wedding,9500,2024-12-21,5.0,Warangal
+376,Customer_376,HD & Airbrush,Christian Wedding,8000,2024-06-27,4.5,Secunderabad
+377,Customer_377,Bridal Makeup,Muslim Wedding,15000,2024-05-22,5.0,Vijayawada
+378,Customer_378,Bridal Makeup,Fusion/Other,15500,2025-07-21,4.8,Warangal
+379,Customer_379,Mehndi/Sangeet Look,Fusion/Other,5500,2024-05-12,5.0,Hyderabad
+380,Customer_380,Bridal Makeup,North Indian Wedding,15500,2025-02-11,4.5,Vijayawada
+381,Customer_381,Mehndi/Sangeet Look,Muslim Wedding,5500,2024-03-16,4.4,Warangal
+382,Customer_382,Pre-Wedding Shoot,North Indian Wedding,9000,2025-04-05,4.5,Warangal
+383,Customer_383,Party & Event,Muslim Wedding,4500,2024-07-05,4.1,Vijayawada
+384,Customer_384,Engagement Glam,Fusion/Other,7000,2024-05-07,4.5,Secunderabad
+385,Customer_385,HD & Airbrush,Christian Wedding,8000,2024-06-14,4.5,Secunderabad
+386,Customer_386,HD & Airbrush,Telugu Hindu Wedding,7500,2024-10-17,4.7,Warangal
+387,Customer_387,Party & Event,Muslim Wedding,4500,2024-10-08,4.8,Warangal
+388,Customer_388,Engagement Glam,Fusion/Other,6500,2024-04-05,5.0,Secunderabad
+389,Customer_389,Engagement Glam,Muslim Wedding,6500,2024-06-06,5.0,Warangal
+390,Customer_390,Engagement Glam,Telugu Hindu Wedding,7000,2024-01-30,4.5,Hyderabad
+391,Customer_391,Pre-Wedding Shoot,Muslim Wedding,8500,2024-09-28,4.4,Vijayawada
+392,Customer_392,Engagement Glam,Fusion/Other,7000,2025-05-24,4.8,Warangal
+393,Customer_393,Pre-Wedding Shoot,Muslim Wedding,9500,2025-05-09,4.3,Vijayawada
+394,Customer_394,HD & Airbrush,Telugu Hindu Wedding,9000,2024-03-15,5.0,Secunderabad
+395,Customer_395,Mehndi/Sangeet Look,North Indian Wedding,7000,2025-05-10,5.0,Secunderabad
+396,Customer_396,HD & Airbrush,Christian Wedding,7500,2024-05-27,4.6,Warangal
+397,Customer_397,Pre-Wedding Shoot,Muslim Wedding,9500,2025-02-12,4.2,Warangal
+398,Customer_398,Engagement Glam,Christian Wedding,6500,2024-04-18,5.0,Secunderabad
+399,Customer_399,Mehndi/Sangeet Look,North Indian Wedding,6000,2024-09-30,4.7,Secunderabad
+400,Customer_400,Party & Event,Christian Wedding,5000,2024-02-21,5.0,Vijayawada
